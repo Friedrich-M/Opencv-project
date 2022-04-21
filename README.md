@@ -1,23 +1,3 @@
-Awesome Opencv Project
-===========================
-
-[![BILIBILI](https://github.com/Fafa-DL/Opencv-project/blob/main/26%20AI%20Virtual%20Painter/Mine.png)](https://space.bilibili.com/46880349)
-
-****
-
-```
-群内有许多来自不同领域的人才，未来大咖云集的地方哈哈哈。点赞关注一起进步啦。
-```
-	
-|B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
-|---|---|
-|人工智能技术探讨群1|[78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)|
-|人工智能技术探讨群2|[571218304](https://jq.qq.com/?_wv=1027&k=ZCDCT3xV)|
-|人工智能技术探讨群3|[584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
-
-****
-
-
 ## CVZone
 
 |序号|名称|视频|作者|备注|
@@ -77,11 +57,8 @@ Awesome Opencv Project
 ## 参考
 
 [CVZone](https://computervision.zone/)
-
 [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)
-
 [Sergio Canu](https://pysource.com/)
-
 [GrandmaCan](https://www.youtube.com/channel/UCrZOiJyMbXpZ8T5snCIJaLA)
 
 --------------------
